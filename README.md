@@ -2,8 +2,8 @@
 -  I’m Parvish Mohan, a first year software engineering student at The Univerisity of The South Pacific.
 - ## Current Interest:
 - C++ Fundamentals
-- Learning Android development in Java and C#
-- Learning DevOps practices
+- Learning Augmented reality/Android development
+- Learning DevOps practices with Git/Github
 
 
 
