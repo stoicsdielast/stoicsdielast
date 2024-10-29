@@ -4,9 +4,7 @@
 - C++ Fundamentals
 - Learning Android development in Java and C#
 - Learning DevOps practices
-- 
-- 
-- 
+
 
 
 
