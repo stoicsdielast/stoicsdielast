@@ -1,6 +1,6 @@
-- ## 👋 Bula Vinaka,
+## 👋 Bula Vinaka,
 -  I’m Parvish Mohan, a first year software engineering student at The Univerisity of The South Pacific.
-- ## 💻 Always Learning:
+## 💻 Always Learning:
 - C++ Fundamentals
 - Learning Augmented reality/Android development
 - Learning DevOps practices with Git/Github
