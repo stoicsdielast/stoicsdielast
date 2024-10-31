@@ -3,6 +3,7 @@
 ## 💻 Always Learning:
 - C++ Fundamentals
 - Learning Augmented reality/Android development
+- Cyber-Security
 - Learning DevOps practices with Git/Github
 
 
