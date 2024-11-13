@@ -1,3 +1,4 @@
+![](https://github.com/stoicsdielast/stoicsdielast/blob/main/computer.gif)
 ## 👋 Bula Vinaka,
 -  I’m Parvish Mohan, a first year software engineering student at The Univerisity of The South Pacific.
 ## 💻 Always Learning:
