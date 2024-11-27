@@ -4,7 +4,7 @@
 <p>I’m Parvish Mohan, a software engineering student at <br>The University of The South Pacific.</p>
 <h3>💻 Always Learning:</h3>
 <p>
-- C++, Java, PHP <br>
+- C++, Java, PHP & Javascript :) <br>
 - Augmented reality<br>
 - Android development<br>
 - Cyber-Security<br>
