@@ -2,7 +2,7 @@
 <img align="right" src="https://github.com/stoicsdielast/stoicsdielast/blob/main/computer.gif" width = 400> 
 <h3>👋 Bula Vinaka,</h3>
 <p>I’m Parvish Mohan, a software engineering student at <br>The University of The South Pacific.</p>
-<h3>💻 Always Learning:</h3>
+<h3>🌱 Currently Mastering:</h3>
 <p>
 - C++, Java, PHP & Javascript :) <br>
 - Augmented reality<br>
